@@ -12,4 +12,4 @@ Just start a REPL and go executing the code on the comments to see the result.
 
 ## License
 
-Public domain.
+Unlicense
